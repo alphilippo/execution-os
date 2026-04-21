@@ -1,5 +1,9 @@
 # execution-os
 
+![Version](https://img.shields.io/badge/version-1.0.0-blue) ![License](https://img.shields.io/badge/license-Apache%202.0-green) ![Claude](https://img.shields.io/badge/Claude-Skill-purple)
+
+🌍 **Français** · **[English](README.en.md)**
+
 > Système d'exécution personnel pour Claude : transforme l'intention en résultats, avec 4 modules modulaires (sprint planning, deep work, weekly ritual, accountability).
 
 ## Ce que ça fait
@@ -82,7 +86,8 @@ Package en `.skill` et upload via `/skills` endpoint.
 ```
 execution-os/
 ├── SKILL.md                            # Métadonnées + routeur
-├── README.md                           # Ce fichier
+├── README.md                           # Ce fichier (français)
+├── README.en.md                        # Version anglaise
 ├── modules/
 │   ├── sprint-planner.md
 │   ├── deep-work-designer.md
