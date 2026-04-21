@@ -30,7 +30,7 @@ La skill se déclenche automatiquement quand tu dis :
 
 ## Composition avec `thinking-os`
 
-Si tu as aussi [thinking-os](https://github.com/anthropics/skills), les deux se complètent :
+Si tu as aussi [thinking-os](https://github.com/alphilippo/thinking-os), les deux se complètent :
 - `thinking-os` répond à la question **QUOI** faire
 - `execution-os` répond à la question **COMMENT** le faire réellement
 
