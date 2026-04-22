@@ -34,17 +34,18 @@ The skill triggers automatically when you say:
 
 ## Complementary skills (full ecosystem)
 
-- 🧠 [**thinking-os**](https://github.com/alphilippo/thinking-os) — cognitive router that applies the right thinking framework
-- 📚 [**learning-os**](https://github.com/alphilippo/learning-os) — learning system with 5 modules
+- 🧠 [**thinking-os**](https://github.com/alphilippo/thinking-os) — cognitive router
+- ⚙️ [**execution-os**](https://github.com/alphilippo/execution-os) — execution system
+- 📚 [**learning-os**](https://github.com/alphilippo/learning-os) — learning system
+- ⚔️ [**strategy-intel**](https://github.com/alphilippo/strategy-intel) — strategic analysis
+- 🧭 [**alignment-os**](https://github.com/alphilippo/alignment-os) — personal alignment
 
-The 3 compose:
-- `thinking-os` answers **WHAT** to do (decisions, trade-offs, diagnostics)
-- `execution-os` answers **HOW** to do it (sprints, deep work, rituals)
-- `learning-os` answers **HOW TO LEARN** it (plans, concepts, sessions, synthesis)
-
-If you're unsure what to execute → `thinking-os`.
-If you know what but you drift → `execution-os`.
-If you want to learn/master a domain → `learning-os`.
+The 5 answer different questions:
+- `thinking-os` — **WHAT** to do (thinking frame)
+- `execution-os` — **HOW** to do it (cadence)
+- `learning-os` — **HOW TO LEARN** it (skill building)
+- `strategy-intel` — **WHERE & AGAINST WHOM** to do it (positioning)
+- `alignment-os` — **WHY** do it (life/values coherence)
 
 ## Installation
 
