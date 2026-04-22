@@ -34,17 +34,18 @@ La skill se déclenche automatiquement quand tu dis :
 
 ## Skills complémentaires (écosystème complet)
 
-- 🧠 [**thinking-os**](https://github.com/alphilippo/thinking-os) — routeur cognitif qui applique le bon framework de pensée
-- 📚 [**learning-os**](https://github.com/alphilippo/learning-os) — système d'apprentissage avec 5 modules
+- 🧠 [**thinking-os**](https://github.com/alphilippo/thinking-os) — routeur cognitif
+- ⚙️ [**execution-os**](https://github.com/alphilippo/execution-os) — système d'exécution
+- 📚 [**learning-os**](https://github.com/alphilippo/learning-os) — système d'apprentissage
+- ⚔️ [**strategy-intel**](https://github.com/alphilippo/strategy-intel) — analyse stratégique
+- 🧭 [**alignment-os**](https://github.com/alphilippo/alignment-os) — alignement personnel
 
-Les 3 se composent :
-- `thinking-os` répond à **QUOI** faire (décisions, arbitrages, diagnostics)
-- `execution-os` répond à **COMMENT** le faire (sprints, deep work, rituels)
-- `learning-os` répond à **APPRENDRE** (plans, concepts, sessions, synthèses)
-
-Si tu hésites sur quoi exécuter → `thinking-os`.
-Si tu sais quoi mais tu dérives → `execution-os`.
-Si tu veux apprendre/maîtriser un domaine → `learning-os`.
+Les 5 répondent à des questions différentes :
+- `thinking-os` — **QUOI** faire (cadre de pensée)
+- `execution-os` — **COMMENT** le faire (cadence)
+- `learning-os` — **APPRENDRE** à le faire (montée en compétence)
+- `strategy-intel` — **OÙ & CONTRE QUI** le faire (positionnement)
+- `alignment-os` — **POURQUOI** le faire (cohérence vie/valeurs)
 
 ## Installation
 
