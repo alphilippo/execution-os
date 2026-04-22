@@ -32,14 +32,19 @@ The skill triggers automatically when you say:
 - *"I'm doing my retro"*, *"Sunday evening"* → Weekly Ritual
 - *"I'm drifting"*, *"I'm procrastinating on X"*, *"I can't stick to my plan"* → Accountability Check
 
-## Composition with `thinking-os`
+## Complementary skills (full ecosystem)
 
-If you also have [thinking-os](https://github.com/alphilippo/thinking-os), the two complement each other:
-- `thinking-os` answers the **WHAT** question
-- `execution-os` answers the **HOW** question
+- 🧠 [**thinking-os**](https://github.com/alphilippo/thinking-os) — cognitive router that applies the right thinking framework
+- 📚 [**learning-os**](https://github.com/alphilippo/learning-os) — learning system with 5 modules
 
-If you're unsure what to execute → use `thinking-os`.
-If you know what but you're drifting on how → use `execution-os`.
+The 3 compose:
+- `thinking-os` answers **WHAT** to do (decisions, trade-offs, diagnostics)
+- `execution-os` answers **HOW** to do it (sprints, deep work, rituals)
+- `learning-os` answers **HOW TO LEARN** it (plans, concepts, sessions, synthesis)
+
+If you're unsure what to execute → `thinking-os`.
+If you know what but you drift → `execution-os`.
+If you want to learn/master a domain → `learning-os`.
 
 ## Installation
 
