@@ -32,14 +32,19 @@ La skill se déclenche automatiquement quand tu dis :
 - *"Je fais ma rétro"*, *"Dimanche soir"* → Weekly Ritual
 - *"Je dérive"*, *"Je procrastine sur X"*, *"J'arrive pas à tenir"* → Accountability Check
 
-## Composition avec `thinking-os`
+## Skills complémentaires (écosystème complet)
 
-Si tu as aussi [thinking-os](https://github.com/alphilippo/thinking-os), les deux se complètent :
-- `thinking-os` répond à la question **QUOI** faire
-- `execution-os` répond à la question **COMMENT** le faire réellement
+- 🧠 [**thinking-os**](https://github.com/alphilippo/thinking-os) — routeur cognitif qui applique le bon framework de pensée
+- 📚 [**learning-os**](https://github.com/alphilippo/learning-os) — système d'apprentissage avec 5 modules
 
-Si tu hésites sur quoi exécuter → utilise `thinking-os`.
-Si tu sais quoi mais tu dérives sur comment → utilise `execution-os`.
+Les 3 se composent :
+- `thinking-os` répond à **QUOI** faire (décisions, arbitrages, diagnostics)
+- `execution-os` répond à **COMMENT** le faire (sprints, deep work, rituels)
+- `learning-os` répond à **APPRENDRE** (plans, concepts, sessions, synthèses)
+
+Si tu hésites sur quoi exécuter → `thinking-os`.
+Si tu sais quoi mais tu dérives → `execution-os`.
+Si tu veux apprendre/maîtriser un domaine → `learning-os`.
 
 ## Installation
 
